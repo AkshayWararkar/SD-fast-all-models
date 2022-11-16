@@ -1,4 +1,4 @@
-Model Name,Model Description,Model Type,Model Download link Type,Model Download link ,VAE Download link Type,VAE Download link 
+Model_Name,Model_Description,Model_Type,Model_Download_link_Type,Model_Download_link,VAE_Download_link_Type,VAE_Download_link
 Anything-V3.0 fp16 [38c1ebe3] (huggingface),"Anime model
 Info https://www.bilibili.com/read/cv19603218",model,huggingface,https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0-pruned.ckpt,huggingface,https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0.vae.pt
 Anything-V3.0 fp16 [38c1ebe3] (torrent),"Anime model
