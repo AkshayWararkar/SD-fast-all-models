@@ -1,5 +1,5 @@
 Model_Name,Model_Description,Model_Type,Model_Download_link_Type,Model_Download_link,VAE_Download_link_Type,VAE_Download_link
-Anything-V3.0 fp16 [38c1ebe3] (huggingface),"Anime model
+Anything-V3.0 (huggingface),"Anime model
 Info https://www.bilibili.com/read/cv19603218",model,huggingface,https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0-pruned.ckpt,huggingface,https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0.vae.pt
 Anything-V3.0 fp16 [38c1ebe3] (torrent),"Anime model
 Infohttps://www.bilibili.com/read/cv196032188",model,torrent,magnet:?xt=urn:btih:45cd353ac4fa87098db5e3a6a349539710a3a1f5&dn=Anything-V3.0-fp16.zip&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fvibe.sleepyinternetfun.xyz%3a1738%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.swateam.org.uk%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.publictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.encrypted-data.xyz%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.army%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce,,
@@ -296,3 +296,444 @@ Info: https://huggingface.co/chavinlo/mio-naganohara-waifu-diffusion",model,hugg
 fubuki-ld-v1-e13-ex-ad [2af6d20f] (torrent),"Medium model trained on 5,000 images of Fubuki from Hololive. 13 Epochs Pruned, 3.8GB, includes samples.",model,torrent,magnet:?xt=urn:btih:D37QX2URIZ7QWMBCCLMZG6THZF5GLDB2&dn=fubuki-ld-v1-e13-ex-ad&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce,,
 asuka-ld-v1-e4-ex-ad [87074080] (torrent),"Small model trained on 17,000 images of Asuka from Evangelion. 4 Epochs, Pruned, 3.6GB, does not include samples.",model,torrent,magnet:?xt=urn:btih:4GBOL6SMWLZWT2CBUWVMSF5NCGD47CGZ&dn=asuka-ld-v1-e4-ex-ad&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce,,
 tomoko-kuroki-ld-v1-e20-ex-ad [6095e7ab] (torrent),"Small model trained on unknown number of images of Tomoko Kuroki. 20 Epochs, Pruned, 3.5GB, does not include samples.",model,torrent,magnet:?xt=urn:btih:3OFJJ76Y2K4W47RJ7EXFKI3BAZPPVTQM&dn=tomoko-kuroki-ld-v1-e20-ex-ad&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce,,
+BerryMix [19810fe6],"If you have already been pickled to satisfaction, perhaps you may try being berried next.
+Info https://rentry.org/berrymix",merged,torrent,,,
+FreckleGuy's mix,A merge with some anime model and trinart with an old version of the automatic1111 ui,merged,torrent,,,
+HassansBlend,"Still has a focus on being photorealistic but allows for some additional poses, sex scenes etc. Samples included on the page along with the images with metadata to copy.
+https://rentry.org/sdhassan
+
+View sample albums from this model
+Other: https://imgur.com/a/c8VEbGJ
+Tentacles: https://imgur.com/a/l5hg69w
+Retro realistic: https://imgur.com/a/N5W5Rtn
+Normal nudes: https://imgur.com/a/14jAPBN
+Hardcore: https://imgur.com/a/WZJSvha",merged,torrent,magnet:?xt=urn:btih:6f8922abab22b5380730e703547e05c3ff05e446&dn=HassansBlend1.3.ckpt&tr=udp%3a%2f%2fwambo.club%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.dutchtracking.com%3a6969%2fannounce&tr=udp%3a%2f%2ftc.animereactor.ru%3a8082%2fannounce&tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.kamigami.org%3a2710%2fannounce&tr=http%3a%2f%2ftracker.files.fm%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce&tr=https%3a%2f%2ftracker.nitrix.me%3a443%2fannounce&tr=http%3a%2f%2fnovaopcj.icu%3a10325%2fannounce&tr=udp%3a%2f%2faaa.army%3a8866%2fannounce&tr=https%3a%2f%2ftracker.imgoingto.icu%3a443%2fannounce&tr=udp%3a%2f%2ftracker.shkinev.me%3a6969%2fannounce&tr=udp%3a%2f%2fblokas.io%3a6969%2fannounce&tr=udp%3a%2f%2fapi.bitumconference.ru%3a6969%2fannounce&tr=udp%3a%2f%2fcutiegirl.ru%3a6969%2fannounce&tr=udp%3a%2f%2fln.mtahost.co%3a6969%2fannounce&tr=udp%3a%2f%2fvibe.community%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.vulnix.sh%3a6969%2fannounce&tr=udp%3a%2f%2fwassermann.online%3a6969%2fannounce&tr=udp%3a%2f%2fkanal-4.de%3a6969%2fannounce&tr=udp%3a%2f%2fmts.tvbit.co%3a6969%2fannounce&tr=udp%3a%2f%2fadminion.n-blade.ru%3a6969%2fannounce&tr=udp%3a%2f%2fbenouworldtrip.fr%3a6969%2fannounce&tr=udp%3a%2f%2fsd-161673.dedibox.fr%3a6969%2fannounce&tr=udp%3a%2f%2f47.ip-51-68-199.eu%3a6969%2fannounce&tr=udp%3a%2f%2fcdn-1.gamecoast.org%3a6969%2fannounce&tr=udp%3a%2f%2fdaveking.com%3a6969%2fannounce&tr=http%3a%2f%2frt.tace.ru%3a80%2fannounce&tr=udp%3a%2f%2fforever-tracker.zooki.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ffree-tracker.zooki.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.skynetcloud.site%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=http%3a%2f%2f5rt.tace.ru%3a60889%2fannounce&tr=https%3a%2f%2ftracker.lilithraws.cf%3a443%2fannounce&tr=http%3a%2f%2ftracker.sakurato.xyz%3a23333%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fzephir.monocul.us%3a6969%2fannounce&tr=http%3a%2f%2ftracker2.itzmx.com%3a6961%2fannounce&tr=http%3a%2f%2ftracker3.itzmx.com%3a6961%2fannounce&tr=http%3a%2f%2fh4.trakx.nibba.trade%3a80%2fannounce&tr=udp%3a%2f%2fline-net.ru%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dyne.org%3a6969%2fannounce&tr=udp%3a%2f%2fmail.realliferpg.de%3a6969%2fannounce&tr=udp%3a%2f%2fstorage.groupees.com%3a6969%2fannounce&tr=udp%3a%2f%2ftorrent.tdjs.tech%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.v6speed.org%3a6969%2fannounce&tr=udp%3a%2f%2fcdn-2.gamecoast.org%3a6969%2fannounce&tr=udp%3a%2f%2fbms-hosxp.com%3a6969%2fannounce&tr=udp%3a%2f%2fteamspeak.value-wolf.org%3a6969%2fannounce&tr=udp%3a%2f%2fkoli.services%3a6969%2fannounce&tr=udp%3a%2f%2finferno.demonoid.is%3a3391%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ds.is%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.akado-ural.ru%3a80%2fannounce&tr=udp%3a%2f%2fdiscord.heihachi.pw%3a6969%2fannounce&tr=udp%3a%2f%2fchanchan.uchuu.co.uk%3a6969%2fannounce&tr=udp%3a%2f%2faruacfilmes.com.br%3a6969%2fannounce&tr=udp%3a%2f%2fedu.uifr.ru%3a6969%2fannounce&tr=udp%3a%2f%2fpublictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2fvps02.net.orel.ru%3a80%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.noobsubs.net%3a80%2fannounce&tr=udp%3a%2f%2ftracker.zum.bi%3a6969%2fannounce&tr=udp%3a%2f%2fdpiui.reedlan.com%3a6969%2fannounce&tr=udp%3a%2f%2fengplus.ru%3a6969%2fannounce&tr=udp%3a%2f%2fultra.zt.ua%3a6969%2fannounce&tr=udp%3a%2f%2fnagios.tks.sumy.ua%3a80%2fannounce&tr=udp%3a%2f%2f61626c.net%3a6969%2fannounce&tr=udp%3a%2f%2ft2.leech.ie%3a1337%2fannounce&tr=https%3a%2f%2ftrakx.herokuapp.com%3a443%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=https%3a%2f%2ftracker.tamersunion.org%3a443%2fannounce&tr=udp%3a%2f%2ft1.leech.ie%3a1337%2fannounce&tr=udp%3a%2f%2fus-tracker.publictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ft3.leech.ie%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fvalakas.rollo.dnsabr.com%3a2710%2fannounce&tr=udp%3a%2f%2frutorrent.frontline-mod.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710%2fannounce&tr=udp%3a%2f%2fadm.category5.tv%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.army%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.fortu.io%3a6969%2fannounce&tr=http%3a%2f%2fbt.3kb.xyz%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=https%3a%2f%2f1337.abcvg.info%3a443%2fannounce&tr=udp%3a%2f%2ftracker0.ufibox.com%3a6969%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fcode2chicken.nl%3a6969%2fannounce&tr=udp%3a%2f%2fu.wwwww.wtf%3a1%2fannounce&tr=udp%3a%2f%2ftracker.0x.tf%3a6969%2fannounce&tr=http%3a%2f%2fpublictracker.ch%3a6969%2fannounce&tr=udp%3a%2f%2fbioquantum.co.za%3a6969%2fannounce&tr=udp%3a%2f%2fwww.midea123.z-media.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fretracker.sevstar.net%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.blacksparrowmedia.net%3a6969%2fannounce&tr=udp%3a%2f%2fgit.vulnix.sh%3a6969%2fannounce&tr=udp%3a%2f%2fadmin.videoenpoche.info%3a6969%2fannounce,,
+HassansBlend,"Still has a focus on being photorealistic but allows for some additional poses, sex scenes etc. Samples included on the page along with the images with metadata to copy.
+https://rentry.org/sdhassan
+
+View sample albums from this model
+Other: https://imgur.com/a/c8VEbGJ
+Tentacles: https://imgur.com/a/l5hg69w
+Retro realistic: https://imgur.com/a/N5W5Rtn
+Normal nudes: https://imgur.com/a/14jAPBN
+Hardcore: https://imgur.com/a/WZJSvha",merged,gdrive,https://drive.google.com/file/d/1ERfmat7EourtvR06KtXEkVXqUwaeXWh1/view?usp=share_link,,
+HassansBlend,"Still has a focus on being photorealistic but allows for some additional poses, sex scenes etc. Samples included on the page along with the images with metadata to copy.
+https://rentry.org/sdhassan
+
+View sample albums from this model
+Other: https://imgur.com/a/c8VEbGJ
+Tentacles: https://imgur.com/a/l5hg69w
+Retro realistic: https://imgur.com/a/N5W5Rtn
+Normal nudes: https://imgur.com/a/14jAPBN
+Hardcore: https://imgur.com/a/WZJSvha",merged,mega,https://mega.nz/file/UCpnHAhI#KCKMDDZIClQYU6IWilun-Ldt92Dg3SsbvW5qXnA0wIk,,
+MMDv1-18,"A merge of an exorbitant number of models.
+Info https://huggingface.co/ShinCore/MMDv1-18",merged,huggingface,https://huggingface.co/ShinCore/MMDv1-18/resolve/main/MMD%20V1-18%20MODEL%20MERGE%20(TONED%20DOWN)%20ALPHA.ckpt,,
+MMDv1-18,"A merge of an exorbitant number of models.
+Info https://huggingface.co/ShinCore/MMDv1-18",merged,huggingface,https://huggingface.co/ShinCore/MMDv1-18/resolve/main/MMD%20V1-18%20MODEL%20MERGE%20ALPHA.ckpt,,
+samdoartsultmerge.ckpt [8687d7a5],"Here's a merged model using the original, chewtoy's model, and Chris(orginalcode)'s model",merged,torrent,magnet:?xt=urn:btih:7357defc010aa7e05e60f29149ad20b09aec78ad&dn=samdoartsultmerge.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ffe.dealclub.de%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2f6ahddutb1ucc3cp.ru%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce,,
+samdoartsultmerge.ckpt [8687d7a5],"Here's a merged model using the original, chewtoy's model, and Chris(orginalcode)'s model",merged,huggingface,https://huggingface.co/jinofcoolnes/sammod/resolve/main/samdoartsultmerge.ckpt,,
+70gg30LD70k.ckpt [402dc090],"A merge between gg1342_testrun1_pruned.ckpt and LD-70k-1e-pruned.ckpt, 70-30 ratio.
+This list isn't for merges, you can make them yourself with the WebUI.
+This one is here because it is referenced (and asked for) so often.",merged,torrent,magnet:?xt=urn:btih:5667722f227d1534232182de77730f8aa7ff8212&dn=70gg30LD70k.ckpt&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fzecircle.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fyahor.ftp.sh%3A6969%2Fannounce&tr=udp%3A%2F%2Fvibe.sleepyinternetfun.xyz%3A1738%2Fannounce&tr=udp%3A%2F%2Fv2.iperson.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fuploads.gamecoast.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tcp.exchange%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.swateam.org.uk%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce,,
+wd1-2_sd1-4_merged.ckpt [2037c511],"A merge between Waifu Diffusion v1.2 and Stable Diffusion v1.4 at unknown ratio.
+This list isn't for merges, you can make them yourself with the WebUI.
+This one is here because it is referenced (and asked for) so often.",merged,torrent,magnet:?xt=urn:btih:a1515e051c61ac55e64a7961da956dc2f5c00e90&dn=wd1-2_sd1-4_merged.ckpt&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.nanoha.org%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.lilithraws.org%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce,,
+Hiten girl_anime_8k_wallpaper_4k.ckpt [7831dea3],"Useful for merging.
+Custom Dreambooth model based off of the artist Hiten. Dataset was 6 training images, and 34 regularization images. Trained for 4000 steps.
+Uses the Waifu Diffusion v1.2 model as a base.
+To use the model, simply insert the name 'Hiten' into your prompts. The class token used was 'girl_anime_8k_wallpaper'. Append the class token after Hiten for stronger results. EX: ""1girl by Hiten girl_anime_8k_wallpaper""
+Info: https://huggingface.co/BumblingOrange/Hiten",Dreambooth,huggingface,https://huggingface.co/BumblingOrange/Hiten/resolve/main/Hiten%20girl_anime_8k_wallpaper_4k.ckpt,,
+nanachiDB-42imgs-5000steps.ckpt,"nanachi 42 images on top of yiffy-e15
+keyword: nanachiDB cute_furry_girl",Dreambooth,mega,https://mega.nz/file/xE9gFQYK#f61_2_OvDSOd4VRW3W9EoLpImwCBf1hauUFhW-iNtRw,,
+rizaDB-54imgs-4500steps.ckpt,"ryza dreambooth model (54 images on top of WD 1.3 beta)
+keyword: rizaDB anime_girl (yes I misspelled the name)
+Attention: it can generate nsfw result by default",Dreambooth,mega,https://mega.nz/file/dc1EDKCa#NTXIyMRCpFfS8BsW3s-VeT950ApRTzE8_aVciLmx1bM,,
+bea-14000-pruned-fp16.ckpt [802a681b],"Bea (Pokemon S/S) NSFW DreamBooth model
+Dataset Size: 24 hand-picked, hand-cropped fanart images, 50% SFW, 50% NSFW
+Steps: 14000
+Learning Rate: 6.5e-07
+Trigger Phrase (Identifier + Class): sks girl
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.
+Training data included in torrent.",Dreambooth,torrent,"magnet:?xt=urn:btih:18c7932594fcf2b67434103d3af422a92ebac625&dn=dreambooth-bea-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce",,
+bea-14000-pruned-fp16.ckpt [802a681b],"Bea (Pokemon S/S) NSFW DreamBooth model
+Dataset Size: 24 hand-picked, hand-cropped fanart images, 50% SFW, 50% NSFW
+Steps: 14000
+Learning Rate: 6.5e-07
+Trigger Phrase (Identifier + Class): sks girl
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.
+Training data included in torrent.",Dreambooth,torrent,"magnet:?xt=urn:btih:18c7932594fcf2b67434103d3af422a92ebac625&dn=dreambooth-bea-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce",,
+2b-10000-pruned-fp16.ckpt [8cf4478f],"YoRHa 2B (Nier) DreamBooth NSFW
+Dataset Size: 18 hand-picked, hand-cropped fanart images, roughly half of them NSFW
+Steps: 10000
+Learning Rate: 6.5e-07
+Trigger Phrase (Identifier + Class): sks girl
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.
+Training data included in torrent.",Dreambooth,torrent,magnet:?xt=urn:btih:14f5414d184f36c1932f310661eb82e14165931b&dn=dreambooth-2b-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce,,
+misato-10000-pruned-fp16.ckpt [c51e4c77],"Misato Katsuragi (Casual Outfit) (Neon Genesis Evangelion) DreamBooth NSFW
+Dataset Size: 21 hand-picked, hand-cropped fanart images, roughly half of them NSFW
+Steps: 10000
+Learning Rate: 6.5e-07 (i think?)
+Base Model: WD 1.3 epoch 8
+Trigger Phrase (Identifier + Class): sks katsuragi_misato
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.
+Training images included in torrent.",Dreambooth,torrent,magnet:?xt=urn:btih:b4751304bbb04c719233436f92806cf278da74ab&dn=dreambooth-misato-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce,,
+hilda-v2-8000-pruned-fp16.ckpt [d2c8eef1],"Hilda (Pokemon) DreamBooth NSFW
+Dataset Size: 24 hand-picked, hand-cropped fanart images, roughly half of them NSFW
+Steps: 8000
+Base Model: WD 1.3 epoch 8
+Trigger Phrase (Identifier + Class): sks hilda_(pokemon)
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.",Dreambooth,torrent,magnet:?xt=urn:btih:37c7fc96d630dafc14c3e46526507ca66e760afc&dn=dreambooth-hilda-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce,,
+nagatoro-4000-pruned-fp16.ckpt [8c5ff341],"Nagatoro DreamBooth NSFW
+Dataset Size: 16 hand-picked, hand-cropped fanart images, roughly half of them NSFW
+Learning Rate: 2.9e-07 (imgs*0.18)
+Steps: 4000
+Trigger Phrase (Identifier + Class): sks nagatoro_hayase
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.",Dreambooth,torrent,magnet:?xt=urn:btih:fc70fc0613601df43ffc7e7921250debf925db7b&dn=dreambooth-nagatoro-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce,,
+gawr_gura-4000-pruned-fp16.ckpt [cbd4da60],"Gawr Gura (Hololive) DreamBooth Model NSFW
+Dataset Size: 24 hand-picked, hand-cropped fanart images, roughly half of them NSFW
+Learning Rate: 4.3e-07 (imgs*0.18)
+Steps: 4000
+Trigger Phrase (Identifier + Class): sks gawr_gura
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.",Dreambooth,torrent,magnet:?xt=urn:btih:9200076f1cc41258a8069a6c44e948f5f6cd515b&dn=dreambooth-gura-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce,,
+mori_calliope-4000-pruned-fp16.ckpt [6cb50083],"Calliope Mori (Hololive) DreamBooth Model NSFW
+Dataset Size: 14 hand-picked, hand-cropped fanart images, roughly half of them NSFW
+Learning Rate: 2.5e-07 (imgs*0.18)
+Steps: 4000
+Trigger Phrase (Identifier + Class): sks mori_calliope
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.",Dreambooth,torrent,magnet:?xt=urn:btih:969cabc39c8363aeec824f5530bb0749b6452621&dn=dreambooth-calli-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce,,
+towa-4000-pruned-fp16.ckpt [d578d3c1],"Tokoyami Towa (Hololive) DreamBooth Model NSFW
+Dataset Size: 15 fanart images, roughly half of them NSFW
+Learning Rate: 2.7e-07 (imgs*0.18)
+Steps: 4000
+Class: tokoyami_towa
+All training images depict the character as at least 18 years old - I am not responsible for the generation results using this model file.",Dreambooth,torrent,magnet:?xt=urn:btih:207fef192613543d219a861b37e04c138a7a8597&dn=dreambooth-towa-nsfw&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fvibe.sleepyinternetfun.xyz%3a1738%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.zemoj.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce,,
+Gawr_Gura_450img.ckpt [e7883abf],"Based on Waifu Diffusion v1.2
+Custom Dreambooth model based off of the likeness of Hololive Vtuber Gawr Gura. Dataset was 450 training images, and 900 regularization images. Trained for 3000 steps.
+To use the model, simply insert the name 'Gawr Gura' into your prompts.
+Repo: https://huggingface.co/BumblingOrange/GuraLv400",Dreambooth,huggingface,https://huggingface.co/BumblingOrange/GuraLv400/resolve/main/Gawr_Gura_450img.ckpt,,
+Emilia_CustReg_3k.ckpt [2660cf9a],"Based on Waifu Diffusion v1.2
+Custom Dreambooth model based off of the likeness of Emilia from Re:Zero. Dataset was 16 training images, and 11 regularization images. Trained for 3000 steps.
+To use the model, simply insert the name 'Emilia' into your prompts. The class token used was 'white_hair_girl_violet_eyes'. Append the class token after Emilia for stronger results. EX: ""A photo of Emilia white_hair_girl_violet_eyes""
+Repo: https://huggingface.co/BumblingOrange/Emilia",Dreambooth,huggingface,https://huggingface.co/BumblingOrange/Emilia/resolve/main/Emilia_CustReg_3k.ckpt,,
+Star Fox Krystal,"Trained on 90 fan art images for 2500 steps on top of yiffy18. Regulation images were an even mix of about 200 low-quality generations of 4 common anthro species with a spread of gender (a new idea I hope to explain in a forthcoming guide).
+This following bit of text MUST be used in your prompt, or it will do nothing!
+Trigger Phrase thatbluefoxfromstarfoxkrystal anthro",Dreambooth,mega,https://mega.nz/file/6x4zETbS#E22vQhjjK9CmBQXkzZgNFkIF4-TWGsyE0GRFP7pk-kE,,
+Star Fox Krystal,"Trained on 90 fan art images for 2500 steps on top of yiffy18. Regulation images were an even mix of about 200 low-quality generations of 4 common anthro species with a spread of gender (a new idea I hope to explain in a forthcoming guide).
+This following bit of text MUST be used in your prompt, or it will do nothing!
+Trigger Phrase thatbluefoxfromstarfoxkrystal anthro",Dreambooth,generate,https://pixeldrain.com/u/EH2mvEux,,
+StudioGhibli [10c6aa67],"Prompt is studio_ghibli_anime_style style
+Repo https://huggingface.co/IShallRiseAgain/StudioGhibli",Dreambooth,huggingface,https://huggingface.co/IShallRiseAgain/StudioGhibli/resolve/main/StudioGhibliV4.ckpt,,
+Arcane Vi vimod.ckpt [e02601f3],Use sks vi or vi in the prompt.,Dreambooth,huggingface,https://huggingface.co/jinofcoolnes/VImodel/resolve/main/vimod.ckpt,,
+irlhyperbreasts_9k.ckpt [5ce8b6ec],Preview https://i.imgur.com/GIsZKH4.jpg,Dreambooth,torrent,magnet:?xt=urn:btih:350e93a86f6d08724a03e8175e1947fc7e123e4c&dn=irlhyperbreasts_9k.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ffe.dealclub.de%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2f6ahddutb1ucc3cp.ru%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce,,
+irlhyperbreasts_9k.ckpt [5ce8b6ec],Preview https://i.imgur.com/GIsZKH4.jpg,Dreambooth,gdrive,https://drive.google.com/drive/folders/1ghNQ5kEXlnuuRTGMobfyr81W7N6bURMi,,
+hyperass v1,"Hyper Ass Dreambooth model [NSFW] v1
+-800 images
+-10,000 steps
+-learning rate 5e-6
+This is the last model of the BBB hyper trio (boobs, butt, belly), and the last one I have planned for now
+
+keyword hyperass",Dreambooth,torrent,magnet:?xt=urn:btih:cba3a8020f7b69695301412b58c35f7c17826c39&dn=dreambooth-hyper-ass&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce%20&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce%20&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce,,
+hyperbreasts: v3,"Hyper Breasts Dreambooth model [NSFW] v3
+-1.2k images
+-10,000 steps
+-learning rate 1e-6
+This one was trained on less images overall, but higher quality and larger in size. Bigger results than v2.
+keyword hyperbreasts",Dreambooth,torrent,magnet:?xt=urn:btih:697ac36f1539ddd88b84a6237cf25ed11388bf43&dn=dreambooth-hyper-breasts-v3&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce%20&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce,,
+hyperpreg: v2 (realism and anime),keyword hyperpreg,Dreambooth,torrent,magnet:?xt=urn:btih:b90176670760eee75156197644a461d61a64990d&dn=dreambooth-hyper-preg-v2&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce%20&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce,,
+hyperpreg: v1.1 (realism),"The difference between v1 and v1.1 is that v1.1 focuses on even larger belly sizes, with a smaller more refined dataset
+1k images
+50,000 steps
+learning rate 1e-6 cosine
+base model sd-v1-5
+keyword: hyperpreg",,torrent,magnet:?xt=urn:btih:ee0959baa76604ebe17dd88b58bff32145cd9fb6&dn=dreambooth-hyper-preg-v1.1&tr=udp%3a%2f%2f93.158.213.92%3a1337%2fannounce%20&tr=udp%3a%2f%2f151.80.120.113%3a2810%2fannounce%20&tr=udp%3a%2f%2f91.216.110.53%3a451%2fannounce,,
+hyperpreg: v1 (realism),"hyper_preg_2.7k-lr5e-7-15ks-fp16.ckpt
+Hyper Preg Dreambooth model NSFW
+
+2.7k images
+15,000 steps
+learning rate 5e-7
+base model sd-v1-4
+keyword hyperpreg
+class round belly",Dreambooth,torrent,magnet:?xt=urn:btih:wlu5ltx6nf637e3au2zk4r2o2y6oi3ol&dn=dreambooth-hyper-preg&xl=2133006686&fc=2,,
+Kurisu,"Kurisu NSFW
+Trigger Phrase (Identifier + Class): sks kurisu
+Steps - 4000
+Images - 16 with a few NSFW",Dreambooth,torrent,magnet:?xt=urn:btih:2380decbde8386095241729e38cb6bbead93c0c2&dn=kurisu_final_pruned.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce,,
+Kurisu Visual Novel Official artist (Huke) [eda12c8e],"kurisu_vn_final_4k_pruned.ckpt
+
+Can do NSFW
+Trigger Phrase (Identifier + Class): sks kurisu_vn
+Steps - 4000 (tried 6k and it was overfitted)
+12 SFW images from the artist of the Steins;Gate, Huke
+Quick note on this model, if you are wanting to generate different characters and use ""highres fix"" in auto's ui, set denoising strength high to prevent artifacts due to the art style, preferably >0.85. Adjust CFG as necessary, 5-7 is a good start.",Dreambooth,torrent,magnet:?xt=urn:btih:04c933900719a5833fbe07581ffa6c5114d3b7b6&dn=kurisu_vn_final_4k_pruned.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce,,
+dreambooth_lain_girl.ckpt [e7629bf8],Prompt token lain girl,Dreambooth,torrent,magnet:?xt=urn:btih:8fb4f0fe0ce052b5d6f0d1221a69f04aa2ea406d&dn=dreambooth_lain_girl.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fvibe.sleepyinternetfun.xyz%3a1738%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.zemoj.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.lelux.fi%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.army%3a6969%2fannounce,,
+dreambooth_lain_girl.ckpt [e7629bf8],Prompt token lain girl,Dreambooth,mega,https://mega.nz/file/VK0U0ALD#YDfGgOu8rquuR5FbFxmzKD5hzxO1iF0YQafN0ipw-Ck,,
+Gyokai/onono imoko,"the best model for coherency is gyokaidreambooth_1000.
+gyokaidreambooth_2000 starts to ignore prompt words but is very consistent in style.
+Use term gyokai under class 1girl
+e.g illustration of gyokai 1girl
+works well with multicolored hair, colorful, halftone, polka dot
+protip: the model works well when paired with gyokai-zen HN at 0.85 strength.
+gyokai-zen: https://mega.nz/file/67AUDQ4K#8n4bzcxGGUgaAVy7wLXvVib0jhVjt2wPS-jsoCxcCus",Dreambooth,mega,https://mega.nz/folder/HzYT1T7L#H9TWVVYowA0cX8Eh6x_H3g,,
+futacum_r34.ckpt,"understands 'futa' and 'cumming' ; based on r34_e4, cartoony looking",Dreambooth,gdrive,https://drive.google.com/file/d/1cbCm5KJQgIeD5Om6tkbwGtqHG6Pa0gBz/view,,
+futanari_v2_e3_s10000.ckpt,understands futanari ; very anime-ish,Dreambooth,gdrive,https://drive.google.com/file/d/1PhCzlHf-PpxynzYcQPQ3INk5tfBL9Bb1/view?usp=sharing,,
+Futa_step_3200_10_27.ckpt,"understands futa ; based on SD1.5, realistic looking",Dreambooth,gdrive,https://drive.google.com/file/d/1-3xKhdXwlbPIXt8OjBvlamTiQUGza0hn/view,,
+Wayne Barlowe [e0c27550],"Trained on 31 SFW artworks by artist Wayne Barlowe
+
+Trigger Phrase: DBWayneBarlowe
+Steps: 4000
+Images:
+Model: SD_1.5_pruned
+Use religious, demonic oriented prompts",Dreambooth,torrent,magnet:?xt=urn:btih:a488fb7b0403988df282b422c3d9383e17bbc646&dn=DBWayneBarlowe_JM.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce&tr=https%3a%2f%2ftracker.lilithraws.org%3a443%2fannounce&tr=https%3a%2f%2ftr.burnabyhighstar.com%3a443%2fannounce,,
+Wayne Barlowe [e0c27550],"Trained on 31 SFW artworks by artist Wayne Barlowe
+
+Trigger Phrase: DBWayneBarlowe
+Steps: 4000
+Images:
+Model: SD_1.5_pruned
+Use religious, demonic oriented prompts",Dreambooth,generate,https://gofile.io/d/VPm7wu,,
+Wayne Barlowe [e0c27550],"Trained on 31 SFW artworks by artist Wayne Barlowe
+
+Trigger Phrase: DBWayneBarlowe
+Steps: 4000
+Images:
+Model: SD_1.5_pruned
+Use religious, demonic oriented prompts",Dreambooth,generate,https://pixeldrain.com/u/9pPL2ikF,,
+Blacked POV blowjob [8467f44f],"dreambooth-bkdbj-4000step-pruned-fp16.ckpt
+
+Blacked POV blowjob model, trained for 4000 steps on 70 hand picked photos from blacked.com, trained on top of SD 1.4 model using Dreambooth. Keyword for prompt: bkdbj
+All training images used depict the actress as at least 18 years old - I am not responsible for any generation results using this model file or models merged with it. I will provide no support or further updates for this model. It is a ""one trick pony"" model, as it can do only one kind of NSFW scene. Size for generation that works is 512x512 or up to 512x640.",Dreambooth,torrent,magnet:?xt=urn:btih:836422af364efb784e61a049c1257ea1230509b7&dn=dreambooth-bkdbj-4000step-pruned-fp16.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fvibe.sleepyinternetfun.xyz%3a1738%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.zemoj.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.swateam.org.uk%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.publictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.lelux.fi%3a6969%2fannounce,,
+Blacked POV blowjob [8467f44f],"dreambooth-bkdbj-4000step-pruned-fp16.ckpt
+
+Blacked POV blowjob model, trained for 4000 steps on 70 hand picked photos from blacked.com, trained on top of SD 1.4 model using Dreambooth. Keyword for prompt: bkdbj
+All training images used depict the actress as at least 18 years old - I am not responsible for any generation results using this model file or models merged with it. I will provide no support or further updates for this model. It is a ""one trick pony"" model, as it can do only one kind of NSFW scene. Size for generation that works is 512x512 or up to 512x640.",Dreambooth,generate,https://gofile.io/d/aMfZIV,,
+Zeipher F222 Female Nude (better anatomy),"From: https://ai.zeipher.com/
+
+All of these are still being trained and not final
+
+Check their website/discord for downloads and potential updates.",Dreambooth,torrent,magnet:?xt=urn:btih:GR3IGMJDPJPW3B4WRT5B7SAN7CEBHWSZ&dn=f222&tr=http%3A%2F%2Ftracker.openbittorrent.com%2Fannounce,,
+Zeipher F222 Female Nude (better anatomy),"From: https://ai.zeipher.com/
+
+All of these are still being trained and not final
+
+Check their website/discord for downloads and potential updates.Previously F111.
+Previously F99.",Dreambooth,generate,https://redirect.ai.zeipher.com/b1t50kc,,
+LOKEAN_PUPPYSTYLE_POV.ckpt [e02601f3],"Photorealistic hetero doggystyle images.
+For some reason, shares short hash with Arcane Vi vimod.ckpt and lokean missionary. Probably due to how it was trained - the hash is only of a small segment near the start of the file. They are different models.
+Use LOKEAN_PUPPYSTYLE_POV to activate.
+Info and preview images https://rentry.org/kwai",Dreambooth,direct,https://agencykwai.vip/SD/LOKEAN_PUPPYSTYLE_POV.ckpt,,
+LOKEAN_MISSIONARY_POV.ckpt [e02601f3],"Photorealistic hetero missionary images.
+For some reason, shares short hash with Arcane Vi vimod.ckpt and lokean puppystyle. Probably due to how it was trained - the hash is only of a small segment near the start of the file. They are different models.
+Use LOKEAN_MISSIONARY_POV to activate.
+Info and preview images https://rentry.org/kwai",Dreambooth,direct,https://agencykwai.vip/SD/LOKEAN_MISSIONARY_POV.ckpt,,
+Reverse cowgirl s4629674.ckpt [e285da0d],"Photorealistic reverse cowgirl porn model
+Prompt s4629674",Dreambooth,torrent,magnet:?xt=urn:btih:7dd135c05ce2693fbcaf0e6e2f9975dfa871f745&dn=s4629674.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fvibe.sleepyinternetfun.xyz%3a1738%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.zemoj.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.lelux.fi%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.army%3a6969%2fannounce,,
+Reverse cowgirl s4629674.ckpt [e285da0d],"Photorealistic reverse cowgirl porn model
+Prompt s4629674",Dreambooth,mega,https://mega.nz/file/Q4tDRTAJ#GvgsNp_AnCuniY_rpdrerDQtVaGO90dQlyB__wT4dMM,,
+elden-ring-diffusion [16d77205],"This is the fine-tuned Stable Diffusion model trained on the game art from Elden Ring.
+Use the tokens elden ring style in your prompts for the effect.
+Repo https://huggingface.co/nitrosocke/elden-ring-diffusion
+Check the repo for potential newer versions.",Dreambooth,huggingface,https://huggingface.co/nitrosocke/elden-ring-diffusion/resolve/main/eldenRing-v3-pruned.ckpt,,
+modern-disney-diffusion [ccf3615f],"This is the fine-tuned Stable Diffusion model trained on screenshots from a popular animation studio.
+Use the tokens modern disney style in your prompts for the effect.
+Repo https://huggingface.co/nitrosocke/mo-di-diffusion
+Check the repo for potential newer versions.",Dreambooth,huggingface,https://huggingface.co/nitrosocke/mo-di-diffusion/resolve/main/moDi-v1-pruned.ckpt,,
+Arcane-Diffusion [318a302e],"This is the fine-tuned Stable Diffusion model trained on images from the TV Show Arcane.
+Use the tokens arcane style in your prompts for the effect.
+Repo https://huggingface.co/nitrosocke/Arcane-Diffusion
+Check the repo for potential newer versions.",Dreambooth,huggingface,https://huggingface.co/nitrosocke/Arcane-Diffusion/resolve/main/arcane-diffusion-v3.ckpt,,
+classic-anim-diffusion [be7ddafc],"This is the fine-tuned Stable Diffusion model trained on screenshots from a popular animation studio.
+Use the tokens classic disney style in your prompts for the effect.
+Repo https://huggingface.co/nitrosocke/classic-anim-diffusion
+Check the repo for potential newer versions.",Dreambooth,huggingface,https://huggingface.co/nitrosocke/classic-anim-diffusion/resolve/main/classicAnim-v1.ckpt,,
+bukkake [b4a14787],"bukkake_20_training_images_2020_max_training_steps_woman_class_word.ckpt
+SD1.4 + Dreambooth
+
+A good prompt to test is is ""portrait of bukkake woman, cute girl, sexy, beautiful girl, photograph, nikon d4, f/2.8, 70mm, topless""
+Tip: Do NOT use face restore if you are trying to do txt2img to achieve any kind of realistic cum on a realistic face. Both currently available face restore models (GPFGAN and Codeformer) completely remove or ruin cum on face. Hopefully another coomer will come up with a new face restore model that ignores liquids on faces and still fixes the underlying face",Dreambooth,torrent,magnet:?xt=urn:btih:90df9e64cd31b686c858b9d50b54efafd6a96984&dn=bukkake_20_training_images_2020_max_training_steps_woman_class_word.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fvibe.sleepyinternetfun.xyz%3a1738%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.swateam.org.uk%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.srv00.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.lelux.fi%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.encrypted-data.xyz%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.army%3a6969%2fannounce,,
+bukkake [b4a14787],"bukkake_20_training_images_2020_max_training_steps_woman_class_word.ckpt
+SD1.4 + Dreambooth
+
+A good prompt to test is is ""portrait of bukkake woman, cute girl, sexy, beautiful girl, photograph, nikon d4, f/2.8, 70mm, topless""
+Tip: Do NOT use face restore if you are trying to do txt2img to achieve any kind of realistic cum on a realistic face. Both currently available face restore models (GPFGAN and Codeformer) completely remove or ruin cum on face. Hopefully another coomer will come up with a new face restore model that ignores liquids on faces and still fixes the underlying face",Dreambooth,mega,https://mega.nz/file/olV0yDrR#-5ShWX92PP6r8wV6jHMHQjOmEGnq82xY6-J048GOf9s,,
+DCAU [2fd6057b],"A model for the DC animated universe. Currently it has only been trained on Batman the Animated Series, but there are plans to include all the shows.
+Repo (with samples) https://huggingface.co/IShallRiseAgain/DCAU
+See the repo for potential newer versions.
+Prompt is currently Batman_the_animated_series.",Dreambooth,huggingface,https://huggingface.co/IShallRiseAgain/DCAU/resolve/main/DCAUV1.ckpt,,
+Raven anime.ckpt,"anime' model - A newer model. It is a bit undertrained for more flexibility. It can create more complicated images with greater stability, but with a stronger anime style.
+Tag & classname require more emphasis / attention than the 'Western' model. Try (RavenRoth woman:1.2). It is a bit undertrained for more flexibility - may need to use 'grey skin' in the prompt. (RavenRoth woman:1.2) with grey skin.
+Tag & classname: RavenRoth woman",Dreambooth,mega,https://mega.nz/folder/4KlHFQaL#NBqANoiG3E7mz3apn85Q0g,,
+Raven Western.ckpt,"This is an earlier Dreambooth model I created. It has a style more true to the Teen Titans cartoon and Zone art.
+I noticed how negative prompts can cause the model to shift away from a cartoon / Zone art style, so be careful with negative prompts if you find this.
+A negative prompt of: 'lowres, (bad anatomy), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, jpeg artifacts, >signature, watermark, username, blurry, artist name' works well.
+I think the AI considers the thick line art style to be 'low quality' and for Raven to be 'deformed' or 'mutant', due to the grey skin.
+Try lower CFG Scale (closer to 5) for more flexibility. You may even want to try [RavenRoth anime_girl]
+Tag & classname: RavenRoth anime_girl",Dreambooth,mega,https://mega.nz/folder/4KlHFQaL#NBqANoiG3E7mz3apn85Q0g,,
+oshinobu-pruned.ckpt,"Dataset Size: 63 fanart images that resemble the anime character design (just 3 or 4 are NSFW)
+Steps: 9450 (~6 epochs)
+Base Model: Waifu Diffusion v1.3
+Trigger Phrase (Identifier + Class): illustration of a oshinobu blonde_loli
+Because of the training data used, generated images keep her typical round blush (most of times).
+Now, I think I used an insane amount of steps and images, but when I trained this (one week ago) I had no idea what I was exactly doing.",Dreambooth,torrent,magnet:?xt=urn:btih:bd00f28f19715632b62eae8660cbffb14d606c20&dn=oshinobu-pruned.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce,,
+henreader_final_pruned.ckpt [e5803978],Trigger Phrase (Identifier + Class): sks henreader_db,Dreambooth,torrent,magnet:?xt=urn:btih:2ea2f859da0dd0b48d39f7296bee20434b40e92b&dn=henreader_final_pruned.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce,,
+oshino_shinobu_final_pruned.ckpt,Trigger Phrase (Identifier + Class): photo of a sks oshino_shinobu_db,Dreambooth,torrent,magnet:?xt=urn:btih:ed81724913f0cf899c6eed4a896ff1480b243761&dn=oshino_shinobu_final_pruned.ckpt&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.tracker.vraphim.com%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ffe.dealclub.de%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce,,
+Latex's Abandoned Style,"This style is based on the artist Latex, an artist who used to do latex/latex tf but one day completely changed their art style, scrubbed their old images from most of the internet, and moved away from making latex (but kept the name ironically). Luckily I have a dump of their old art, so finally there is a way to remake one of my favorite styles of latex/goo art. I have attached some quick imperfect gens to check a look at. Im sure you guys will surpass me very very quickly.
+Phrase in prompt: latex_artist art",Dreambooth,torrent,magnet:?xt=urn:btih:d14d31cbddbd3a1be01d4e89012495fe779fda2e&dn=Latex.zip&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.tracker.cl%3a1337%2fannounce,,
+Latex's Abandoned Style,"This style is based on the artist Latex, an artist who used to do latex/latex tf but one day completely changed their art style, scrubbed their old images from most of the internet, and moved away from making latex (but kept the name ironically). Luckily I have a dump of their old art, so finally there is a way to remake one of my favorite styles of latex/goo art. I have attached some quick imperfect gens to check a look at. Im sure you guys will surpass me very very quickly.
+Phrase in prompt: latex_artist art",Dreambooth,generate,Pixeldrain: https://pixeldrain.com/u/9kNKHCSz,,
+Belle Dephine [32cbf6c8],"Dreambooth NSFW
+Keyword Belle girl_cute_face",Dreambooth,torrent,magnet:?xt=urn:btih:29a87b4cfa2c3868b54fe382103ad17881b5f868&dn=Belle%20girl_cute_face%20v2%205k.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fvibe.sleepyinternetfun.xyz%3a1738%2fannounce&tr=udp%3a%2f%2ftracker2.dler.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publictracker.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.novaopcj.eu.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.monitorit4.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.encrypted-data.xyz%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.army%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce,,
+Belle Dephine [32cbf6c8],"Dreambooth NSFW
+Keyword Belle girl_cute_face",Dreambooth,gdrive,https://drive.google.com/file/d/1hcv-2kznXDYAnUDwUrQm6gHIrUQ0j9bZ/view?usp=share_link,,
+Cal Arts Style,"Info & samples https://publicprompts.art/cal-arts-dreambooth-model/
+Trigger phrase: CALARTS",Dreambooth,huggingface,https://huggingface.co/PublicPrompts/CALARTS/resolve/main/CALARTS.ckpt,,
+Pixel Landscapes V1,"Info & samples https://publicprompts.art/pixel-landscapes-v1-dreambooth-model/
+Trigger phrase: 16-bit-landscape pixel art style",Dreambooth,huggingface,https://huggingface.co/PublicPrompts/16-bit-landscape_PublicPrompts/resolve/main/16-bit-landscape_PublicPrompts.ckpt,,
+Pixel Landscapes V1,"Info & samples https://publicprompts.art/pixel-landscapes-v1-dreambooth-model/
+Trigger phrase: 16-bit-landscape pixel art style",Dreambooth,gdrive,https://drive.google.com/file/d/113V4jfwlgCsAKiMLPgpj0hfdZk1sV5cL/view,,
+MicroWorlds,"Info & samples https://publicprompts.art/microworlds-dreambooth-model/
+Trigger phrase: microworld render style",Dreambooth,mega,https://mega.nz/file/7YJRFbxS#FmTrxB4ayFxUaBz-wiVxHov3YLAUFhObR2JyVwq_p_o,,
+MicroWorlds,"Info & samples https://publicprompts.art/microworlds-dreambooth-model/
+Trigger phrase: microworld render style",Dreambooth,gdrive,https://drive.google.com/file/d/1QTUATU3WbYIWX-6ECRypCi1z9TOsXIhG/view?usp=sharing,,
+App Icons Generator V1,"Info & samples https://publicprompts.art/app-icons-generator-v1-dreambooth-model/
+Trigger phrase: SKSKS app icon",Dreambooth,gdrive,https://drive.google.com/file/d/1TNZTQfk0CNZg7nwy033olwOpQAkcglAN/view?usp=sharing,,
+Pixel Art V1,"Info & samples https://publicprompts.art/pixel-art-v1-dreambooth-model/
+Trigger phrase: SKSKS art style",Dreambooth,gdrive,https://drive.google.com/file/d/1HwiqDNm3FyxMNEZLqh7FXsMJv9wmy9bc/view?usp=sharing,,
+VTT RPG,"A collection of models to do with D&D races and monsters.
+Info & Downloads https://huggingface.co/VTTRPGResources",Dreambooth,generate,https://huggingface.co/VTTRPGResources,,
+Comic Diffusion,"Repo https://huggingface.co/ogkalu/Comic-Diffusion
+Includes 6 comic styles.
+
+The tokens for V2 are:
+charliebo artstyle
+holliemengert artstyle
+marioalberti artstyle
+pepelarraz artstyle
+andreasrocha artstyle
+jamesdaly artstyle",Dreambooth,huggingface,https://huggingface.co/ogkalu/Comic-Diffusion/resolve/main/comic-diffusion-V2.ckpt,,
+SD_PixelArt_SpriteSheet_Generator,"Allows you to generate pixel art sprite sheets from four different angles.
+Repo https://huggingface.co/Onodofthenorth/SD_PixelArt_SpriteSheet_Generator
+
+For the front view use PixelartFSS
+For the right view use PixelartRSS
+For the back view use PixelartBSS
+For the left view use PixelartLSS",Dreambooth,huggingface,https://huggingface.co/Onodofthenorth/SD_PixelArt_SpriteSheet_Generator/resolve/main/PixelartSpritesheet_V.1.ckpt,,
+midjourney-v4-diffusion,"Stable Diffusion fine tuned on Midjourney v4 images
+Use prompt: mdjrny-v4 style
+Repo https://huggingface.co/prompthero/midjourney-v4-diffusion",Dreambooth,huggingface,https://huggingface.co/prompthero/midjourney-v4-diffusion/resolve/main/mdjrny-v4.ckpt,,
+BloodborneDiffusion,"This is a Dreamboothed Stable Diffusion model trained on the Bloodborne series Style.
+The total dataset is made of 100 pictures, and the training has been done on runawayml 1.5 and the new VAE, with 12k steps (poly LR1e-6).
+The token Bloodborne Style will bring in the new concept.
+The recommended sampling is k_Euler_a or DPM++ 2M Karras on 20 steps, CFGS 7 .
+
+Repo https://huggingface.co/Guizmus/BloodborneDiffusion",Dreambooth,huggingface,https://huggingface.co/Guizmus/BloodborneDiffusion/resolve/main/BloodborneStyle-v1.ckpt,,
+samdoesarts_style [85b77ff9],"This is a dreambooth model trained on the works of Sam Yang(samdoesarts).
+trained with automatic1111 dreambooth extension
+13000 steps 128 training images (256 flipped) 1500 class images 1e-6 learning rate
+token for this model is samdoesarts style",Dreambooth,torrent,magnet:?xt=urn:btih:7999b19ee45d505354e50c25041f405ca8932a38&dn=samdoesarts_style.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ffe.dealclub.de%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2f6ahddutb1ucc3cp.ru%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce,,
+samdoesarts_style [85b77ff9],"This is a dreambooth model trained on the works of Sam Yang(samdoesarts).
+trained with automatic1111 dreambooth extension
+13000 steps 128 training images (256 flipped) 1500 class images 1e-6 learning rate
+token for this model is samdoesarts style",Dreambooth,generate,https://anonfiles.com/JbocEcG4yd/samdoesarts_style_ckpt,,
+samdoesarts_style [85b77ff9],"This is a dreambooth model trained on the works of Sam Yang(samdoesarts).
+trained with automatic1111 dreambooth extension
+13000 steps 128 training images (256 flipped) 1500 class images 1e-6 learning rate
+token for this model is samdoesarts style",Dreambooth,generate,https://pixeldrain.com/u/4s3ntWvR,,
+JWST Deep Space Diffusion,"This is a fine-tuned Stable Diffusion model (based on v1.5) trained on images taken by the James Webb Space Telescope, as well as Judy Schmidt. Use the token JWST in your prompts to use the style (e.g., jwst, green spiral galaxy).
+
+Repo https://huggingface.co/dallinmackay/JWST-Deep-Space-diffusion",Dreambooth,huggingface,https://huggingface.co/dallinmackay/JWST-Deep-Space-diffusion/resolve/main/JWST-Deep-Space.ckpt,,
+copeseethemaldchinai_10000.ckpt (samdoesart) [32186669],"Yet another samdoesart dreambooth model.
+
+100 images
+No class images.
+1e-6 learning rate.
+Sample guidance scale set to 9.5
+based on ""chinai (anything)""
+
+Use copeseethemald style in prompt",Dreambooth,torrent,magnet:?xt=urn:btih:4f1365b3dd30541d2c1becfd5d54160928916ba4&dn=copeseethemaldchinai_10000.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ffe.dealclub.de%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2f6ahddutb1ucc3cp.ru%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce,,
+copeseethemaldchinai_10000.ckpt (samdoesart) [32186669],"Yet another samdoesart dreambooth model.
+
+100 images
+No class images.
+1e-6 learning rate.
+Sample guidance scale set to 9.5
+based on ""chinai (anything)""
+
+Use copeseethemald style in prompt",Dreambooth,mega,https://mega.nz/file/xT9jVToK#Sj1S76kl-PC-zCRwJ2FWen6DS0NHY0IXFFAkXhm03eo,,
+CopeSeetheMald-berry200_20400.ckpt (samdoesart) [fa49a214],"Another samdoesart dreambooth model.
+
+204 images @ 20.4k steps
+1e-6 learning rate
+based on ""berry mix""
+
+Use copeseethemald style in prompt",Dreambooth,torrent,magnet:?xt=urn:btih:e4f1f4b9d7d6cf8570914fe22318b44c18d6d602&dn=CopeSeetheMald-berry200_20400.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ffe.dealclub.de%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2f6ahddutb1ucc3cp.ru%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce,,
+CopeSeetheMald-berry200_20400.ckpt (samdoesart) [fa49a214],"Another samdoesart dreambooth model.
+
+204 images @ 20.4k steps
+1e-6 learning rate
+based on ""berry mix""
+
+Use copeseethemald style in prompt",Dreambooth,mega,https://mega.nz/folder/1a1xkQQK#4atlB1cJqI35InXxlxyA7A,,
+CopeSeetheMald-200_20400.ckpt (samdoesart) [95f071f9],"Another samdoesart dreambooth model.
+
+204 images @ 20.4k steps
+1e-6 learning rate
+based on ""blossom mix""
+
+Use copeseethemald style in prompt",Dreambooth,torrent,magnet:?xt=urn:btih:9b92aeea5d136ddae25c0d6165405e6e4d144ff1&dn=CopeSeetheMald-200_20400.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ffe.dealclub.de%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2f6ahddutb1ucc3cp.ru%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce,,
+CopeSeetheMald-200_20400.ckpt (samdoesart) [95f071f9],"Another samdoesart dreambooth model.
+
+204 images @ 20.4k steps
+1e-6 learning rate
+based on ""blossom mix""
+
+Use copeseethemald style in prompt",Dreambooth,mega,https://mega.nz/folder/ZG0UnRBJ#jykESWBUCr7hjOoNVTXwLw,,
+Black Souls bs_1500.ckpt [37ec0dc9],"A dreambooth trained on game cg from a game called black souls
+call forbs in the prompt
+have vae off, ensure clip skip is set to 1, and set cfg to a low number (like 6)
+
+Preview https://cdn.discordapp.com/attachments/1038283286046322819/1040125269761081444/grid-0000.png",Dreambooth,torrent,magnet:?xt=urn:btih:63e9c043838f7bca078fb9607873957d11a88e24&dn=bs_1500.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pomf.se%3a80%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.altrosky.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2ffe.dealclub.de%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2f6ahddutb1ucc3cp.ru%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce,,
+Black Souls bs_1500.ckpt [37ec0dc9],"A dreambooth trained on game cg from a game called black souls
+call forbs in the prompt
+have vae off, ensure clip skip is set to 1, and set cfg to a low number (like 6)
+
+Preview https://cdn.discordapp.com/attachments/1038283286046322819/1040125269761081444/grid-0000.png",Dreambooth,mega,https://mega.nz/file/KkIgRY7a#VrKp_JwspTF4e05ApSy4hkJgGUcMKaXSbyB_COZ-o6k,,
+jaggy92500.ckpt [93423a00],"Game screenshots.
+
+Here are the terms to call: jaggy, then ps_game_screenshot, pc_game_screenshot, gamecube_game_screenshot, blood_and_gore, intense_violence, zotov_game_screenshot, eroge_game_screenshot, life_sim_game_screenshot, and/or alter_echo. This is in descending order of influence. There are a few others which are not effective enough to name, but can have strong effects at times. I won't mention them. You should put (cartoon) and maybe (menu) in the negative prompt.
+
+Preview images: https://imgur.com/a/J4i1DiN",Dreambooth,torrent,magnet:?xt=urn:btih:71847b56518e6d7d92dfe24e95f2ee474807b197&dn=jaggy92500.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce&tr=https%3a%2f%2ftracker.lilithraws.org%3a443%2fannounce&tr=https%3a%2f%2ftracker.cyber-hub.net%3a443%2fannounce,,
+jaggy92500.ckpt [93423a00],"Game screenshots.
+
+Here are the terms to call: jaggy, then ps_game_screenshot, pc_game_screenshot, gamecube_game_screenshot, blood_and_gore, intense_violence, zotov_game_screenshot, eroge_game_screenshot, life_sim_game_screenshot, and/or alter_echo. This is in descending order of influence. There are a few others which are not effective enough to name, but can have strong effects at times. I won't mention them. You should put (cartoon) and maybe (menu) in the negative prompt.
+
+Preview images: https://imgur.com/a/J4i1DiN",Dreambooth,mega,https://mega.nz/file/0SER2YpC#_MRc6p_sG9cSWqihpt33jpOWyMR8bCZrUaVkh4z5kGE,,
+ykgl.ckpt (y2k cgi girls),"It does cgi girls from the y2k era. Trained for 40k steps.
+You call on them with (ykgl cgi_girl), or (ykgl cgi_girls), or just (ykgl girl), and then maybe with , cgi_artstyle.
+
+Preview images https://imgur.com/a/r2aIcxo",Dreambooth,mega,https://mega.nz/file/hT0mgTqR#d8g133APl30UtDwsNmzV73_ZESi_kTa5pmQgJoxomn0,,
+CSRmodel (cutesexyrobutts) [b77538cc],"Dreambooth model based on cutesexyrobutts art style.
+Preview https://i.imgur.com/VPNUae8.png",Dreambooth,torrent,magnet:?xt=urn:btih:46c46d2630043f9e47b0107b9680b5bd270263d7&dn=Systemy-CSRmodel.rar&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce&tr=https%3a%2f%2ftracker.lilithraws.org%3a443%2fannounce&tr=https%3a%2f%2ftracker.cyber-hub.net%3a443%2fannounce,,
+CSRmodel (cutesexyrobutts) [b77538cc],"Dreambooth model based on cutesexyrobutts art style.
+Preview https://i.imgur.com/VPNUae8.png",Dreambooth,generate,https://gofile.io/d/D1L69E,,
+Pepestyle,"A Dreambooth model created with the sole purpose of generating the rarest and dankest pepes.
+StableDiffusion 1.5 was used as a base for this model.
+22 instance images, 400 class images, 2.2k steps at a 1.3e-6 learning rate.
+Use the phrase pepestyle person
+
+Repo https://huggingface.co/SpiteAnon/Pepestyle",Dreambooth,huggingface,https://huggingface.co/SpiteAnon/Pepestyle/resolve/main/pepestylev2_2200.ckpt,,
+dbmai [e02601f3],"A dreambooth model from China.
+Preview images https://imgur.com/a/fTDgBST
+Info https://tieba.baidu.com/p/8136937175",Dreambooth,torrent,magnet:?xt=urn:btih:89ede059b4f90887b1f1ce10ba7a37e1d8a0c4b5&dn=dbmai.ckpt&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.tracker.cl%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce&tr=https%3a%2f%2ftracker.lilithraws.org%3a443%2fannounce&tr=https%3a%2f%2ftracker.cyber-hub.net%3a443%2fannounce&tr=https%3a%2f%2ftr.burnabyhighstar.com%3a443%2fannounce,,
+dbmai [e02601f3],"A dreambooth model from China.
+Preview images https://imgur.com/a/fTDgBST
+Info https://tieba.baidu.com/p/8136937175",Dreambooth,gdrive,https://drive.google.com/drive/folders/1MUtM5MTXM35fid5TE3tUSKXAqPP7oysz,,
+gigachad-diffusion,"StableDiffusion v1.5 used. 20 instance images, 400 class images, 2.2k steps at a 1e-6 learning rate.
+Token gigachad
+
+Info & preview images: https://huggingface.co/SpiteAnon/gigachad-diffusion",Dreambooth,huggingface,https://huggingface.co/SpiteAnon/gigachad-diffusion/blob/main/gigachad_2000.ckpt,,
+Complex-Lineart,"Trained on around 100 images at 768x768 resolution.
+Use prompt: ComplexLA style
+Use resolution near 768x768, lower resolution works but quality will not be as good.
+
+Repo & preview images: https://huggingface.co/Conflictx/Complex-Lineart",Dreambooth,huggingface,https://huggingface.co/Conflictx/Complex-Lineart/resolve/main/ComplexLA%20Style.ckpt,,
