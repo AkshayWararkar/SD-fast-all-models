@@ -126,7 +126,7 @@ class Script(scripts.Script):
                     foregen_make_mask
                     ):
         initial_CLIP = opts.data["CLIP_stop_at_last_layers"]
-        sdmg = module_from_file("simple_depthmap",'/content/sd/stable-diffusion-webui/extensions/multi-subject-render/scripts/simple_depthmap.py')
+        sdmg = module_from_file("simple_depthmap",'extensions/multi-subject-render/scripts/simple_depthmap.py')
         sdmg = sdmg.SimpleDepthMapGenerator() #import midas
 
         def cut_depth_mask(img,mask_img,foregen_treshold):
