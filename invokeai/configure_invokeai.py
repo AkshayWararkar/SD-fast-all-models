@@ -92,7 +92,8 @@ def yes_or_no(prompt:str, default_yes=True):
     completer.set_options(['yes','no'])
     completer.complete_extensions(None)  # turn off path-completion mode
     default = "y" if default_yes else 'n'
-    response = input(f'{prompt} [{default}] ') or default
+    #response = input(f'{prompt} [{default}] ') or default
+    response = "y"
     if default_yes:
         return response[0] not in ('n','N')
     else:
@@ -217,7 +218,7 @@ This involves a few easy steps.
     )
     #input('Press <enter> when you are ready to continue:')
     print('(Fetching Hugging Face token from cache...',end='')
-    access_token = Gobals.hftoken
+    access_token = Globals.hftoken
     if access_token is not None:
         print('found')
     else:
