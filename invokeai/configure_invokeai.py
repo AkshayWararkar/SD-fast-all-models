@@ -116,7 +116,7 @@ completely skip this step.
     completer.complete_extensions(None)  # turn off path-completion mode
     selection = None
     while selection is None:
-        choice = 'a'
+        choice = 'r'
         if choice.startswith(('r','R')) or len(choice)==0:
             selection = 'recommended'
         elif choice.startswith(('c','C')):
@@ -217,7 +217,7 @@ This involves a few easy steps.
     )
     #input('Press <enter> when you are ready to continue:')
     print('(Fetching Hugging Face token from cache...',end='')
-    access_token = HfFolder.get_token()
+    access_token = Gobals.hftoken
     if access_token is not None:
         print('found')
     else:
@@ -704,11 +704,17 @@ def main():
                         type=str,
                         default=None,
                         help='path to root of install directory')
+    parser.add_argument('--hftoken',
+                        dest='hftoken',
+                        type=str,
+                        default=None,
+                        help='huggingface token')
     opt = parser.parse_args()
 
 
     # setting a global here
     Globals.root = os.path.expanduser(get_root(opt.root) or '')
+    Globals.hftoken = opt.hftoken
 
     try:
         introduction()
