@@ -633,7 +633,8 @@ def initialize_rootdir(root:str,yes_to_all:bool=False):
         print(f"This is NOT recommended for systems with less than 6G VRAM because of the checker's memory requirements.")
         enable_safety_checker = yes_or_no('Enable the NSFW checker by default?',enable_safety_checker)
 
-    safety_checker = '--nsfw_checker' if enable_safety_checker else '--no-nsfw_checker'
+    #safety_checker = '--nsfw_checker' if enable_safety_checker else '--no-nsfw_checker'
+    safety_checker = '--no-nsfw_checker'
 
     for name in ('models','configs','embeddings'):
         os.makedirs(os.path.join(root,name), exist_ok=True)
