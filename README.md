@@ -1,2 +1,4 @@
 "# SD-fast-all-models" <br>
 [Colab](https://colab.research.google.com/github/AkshayWararkar/SD-fast-all-models/blob/main/Notebooks/fast_stable_diffusion_AUTOMATIC1111.ipynb) for Last Ben's fast SD with all models from [rentry.org/sdmodels](https://rentry.org/sdmodels) <a href="https://colab.research.google.com/github/AkshayWararkar/SD-fast-all-models/blob/main/Notebooks/fast_stable_diffusion_AUTOMATIC1111.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>;
+<br>
+[Colab](https://colab.research.google.com/github/AkshayWararkar/SD-fast-all-models/blob/main/InvokeAi_Colab.ipynb) for InvokeAi Webui with all models from [rentry.org/sdmodels](https://rentry.org/sdmodels) <a href="https://colab.research.google.com/github/AkshayWararkar/SD-fast-all-models/blob/main/InvokeAi_Colab.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>;
