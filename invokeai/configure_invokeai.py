@@ -117,7 +117,7 @@ completely skip this step.
     completer.complete_extensions(None)  # turn off path-completion mode
     selection = None
     while selection is None:
-        choice = 'r'
+        choice = 's'
         if choice.startswith(('r','R')) or len(choice)==0:
             selection = 'recommended'
         elif choice.startswith(('c','C')):
