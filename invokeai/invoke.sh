@@ -14,7 +14,7 @@ export INVOKEAI_ROOT="$scriptdir"
  fi
 
 if [ "$0" != "bash" ]; then
-    python /usr/local/bin/invoke.py --web
+    .venv/bin/python .venv/bin/invoke.py --web
 else # in developer console
     python --version
     echo "Press ^D to exit"

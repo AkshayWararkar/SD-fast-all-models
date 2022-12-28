@@ -108,17 +108,51 @@ if [ -z "$PYTHON" ]; then
 fi
 
 
-ROOTDIR=""
+ROOTDIR="/content/invokeai"
 while [ "$ROOTDIR" == "" ]
 do
     echo
-    ROOTDIR=/invokeai
-	mkdir -p "$ROOTDIR"
-	if [ $? -ne 0 ]; then
-	echo "Could not create "$ROOTDIR". Try again with a different install location."
-	ROOTDIR=""
+    readinput -e -p "Select your preferred location for the 'invokeai' directory [$HOME]: " -i $HOME input
+    ROOTDIR=${input:=$HOME}/invokeai
+    read -e -p "InvokeAI will be installed into $ROOTDIR. OK? [y]: " input
+    RESPONSE=${input:='y'}
+    if [ "$RESPONSE" == 'y' ]; then
+	if [ -e "$ROOTDIR" ]; then
+	    echo
+	    read -e -p "Directory "$ROOTDIR" already exists. Do you want to resume an interrupted install? [y]: " input
+            RESPONSE=${input:='y'}
+	    if [ "$RESPONSE" != 'y' ]; then
+	        ROOTDIR=""
+	    fi	       
+	else
+	    mkdir -p "$ROOTDIR"
+	    if [ $? -ne 0 ]; then
+		echo "Could not create "$ROOTDIR". Try again with a different install location."
+		ROOTDIR=""
+	    fi
 	fi
+    else
+	ROOTDIR=""
+    fi
 done
+
+#--------------------------------------------------------------------------------
+echo
+echo "** Creating Virtual Environment for InvokeAI **"
+
+$PYTHON -mvenv "$ROOTDIR"/.venv
+_err_exit $? "Python failed to create virtual environment "$ROOTDIR"/.venv. Please see $TROUBLESHOOTING for help."
+
+#--------------------------------------------------------------------------------
+echo
+echo "** Activating Virtual Environment for InvokeAI **"
+
+source "$ROOTDIR"/.venv/bin/activate
+_err_exit $? "Failed to activate virtual evironment "$ROOTDIR"/.venv. Please see $TROUBLESHOOTING for help."
+
+PYTHON="$ROOTDIR"/.venv/bin/python
+$PYTHON -mensurepip --upgrade
+$PYTHON -mpip install --upgrade pip
 
 #--------------------------------------------------------------------------------
 echo
