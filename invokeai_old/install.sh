@@ -177,7 +177,7 @@ cp -pr environments-and-requirements requirements.txt "$ROOTDIR/"
 echo
 echo "*** Confguring InvokeAI ***"
 pushd "$ROOTDIR" >/dev/null
-$PYTHON /content/configure_invokeai.py --root="$ROOTDIR"
+$PYTHON /content/configure_invokeai.py --root="$ROOTDIR" --hftoken="$1"
 _err_exit $? "Initial configuration failed. Please see above error messages and $TROUBLESHOOTING for help."
 
 #--------------------------------------------------------------------------------
