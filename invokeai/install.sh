@@ -137,7 +137,7 @@ else
     fi
 fi
 
-$PYTHON -mpip install --prefer-binary -r requirements.txt
+$PYTHON -mpip install --prefer-binary -r requirements.txt --use-pep517
 _err_exit $? "Failed to install InvokeAI's dependencies."
 
 #--------------------------------------------------------------------------------
