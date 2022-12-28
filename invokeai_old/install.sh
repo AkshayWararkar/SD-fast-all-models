@@ -109,6 +109,8 @@ fi
 
 
 ROOTDIR="/content/invokeai"
+mkdir -p "$ROOTDIR"
+
 while [ "$ROOTDIR" == "" ]
 do
     echo
@@ -118,13 +120,6 @@ do
     RESPONSE=${input:='y'}
     if [ "$RESPONSE" == 'y' ]; then
 	if [ -e "$ROOTDIR" ]; then
-	    echo
-	    read -e -p "Directory "$ROOTDIR" already exists. Do you want to resume an interrupted install? [y]: " input
-            RESPONSE=${input:='y'}
-	    if [ "$RESPONSE" != 'y' ]; then
-	        ROOTDIR=""
-	    fi	       
-	else
 	    mkdir -p "$ROOTDIR"
 	    if [ $? -ne 0 ]; then
 		echo "Could not create "$ROOTDIR". Try again with a different install location."
