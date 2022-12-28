@@ -709,7 +709,7 @@ def main():
     parser.add_argument('--hftoken',
                         dest='hftoken',
                         type=str,
-                        default=None,
+                        default='',
                         help='huggingface token')
     opt = parser.parse_args()
 
